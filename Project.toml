@@ -1,0 +1,7 @@
+name = "Matheo"
+uuid = "c56a84b4-d84e-4eb9-8ad5-ee20ea113c7c"
+authors = ["matheowellecan <matheowellecan@gmail.com>"]
+version = "0.0.1"
+
+[compat]
+julia = "1.10"
