@@ -1,5 +1,7 @@
 module Matheo
 
-# Write your package code here.
+export f
 
+# Write your package code here.
+include("testpck.jl")
 end
